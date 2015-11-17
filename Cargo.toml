@@ -1,0 +1,4 @@
+[package]
+name = "ftp_daemon"
+version = "0.1.0"
+authors = ["Jason Cardinal <jason.brogrammer@gmail.com>"]
